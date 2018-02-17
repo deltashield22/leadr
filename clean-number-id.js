@@ -1,4 +1,5 @@
-(function handleScrolling() {
+(function cleanNumberId() {
+    //a function to make ids that start with a number readable by CSS
 
     let id = "123bd54c"
 
