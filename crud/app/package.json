@@ -1,0 +1,19 @@
+{
+  "name": "latin-dictionary",
+  "version": "1.0.0",
+  "description": "a little latin-to-english dictionary",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "joi": "^13.1.2",
+    "joi-objectid": "^2.0.0",
+    "mongodb": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
