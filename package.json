@@ -1,0 +1,19 @@
+{
+  "name": "dictionary-display",
+  "version": "1.0.0",
+  "description": "frontend for the word translator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltashield22/leadr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltashield22/leadr/issues"
+  },
+  "homepage": "https://github.com/deltashield22/leadr#readme"
+}
